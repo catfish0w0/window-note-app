@@ -16,4 +16,4 @@ To split the screen in two separate parts, I used [react-split](https://www.npmj
 For the code editor part, I used [react-mde](https://www.npmjs.com/package/react-mde)
 
 ### Pictures
-![](/pictures/pictures/note app no notes.png)
+![](./pictures/pictures/note app no notes.png)
